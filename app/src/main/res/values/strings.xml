@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">魔方計時器</string>
+    <string-array name="block">
+        <item>2 x 2</item>
+        <item>3 x 3</item>
+        <item>4 x 4</item>
+        <item>5 x 5</item>
+        <item>金字塔</item>
+        <item>五魔方</item>
+        <item>魔錶</item>
+        <item>單手3 x 3</item>
+    </string-array>
+</resources>
